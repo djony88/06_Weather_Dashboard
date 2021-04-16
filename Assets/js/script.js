@@ -172,7 +172,7 @@ $(document).ready(function () {
             
               // Initiate background as violet
               let backgrdColor = 'violet';        
-              // determine backgrouind color depending on value
+              // Determine backgrouind color depending on value
               if (UviLevel < 3) {backgrdColor = 'green';} 
                   else if (UviLevel < 6) { backgrdColor = 'yellow';} 
                   else if (UviLevel < 8) { backgrdColor = 'orange';} 
