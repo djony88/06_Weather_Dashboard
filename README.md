@@ -66,4 +66,4 @@ JavaScript:
 * Format HTML UL Tag. Format HTML LI Tags. Format html values. Append HTML. 
 * Current location when page opens.
 
-![Webpage preview]()
+![Webpage preview](./Assets/Images/Screenshot.png)
