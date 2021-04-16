@@ -132,7 +132,7 @@ $(document).ready(function () {
               humidity: response1.main.humidity,
               temp: Math.round(response1.main.temp),
         
-              // Convert date to usable format [1] = MM/DD/YYYY Format
+              // Convert date to usable format = MM/DD/YYYY Format
               date: (convertDate(response1.dt)),
               icon: `http://openweathermap.org/img/w/${response1.weather[0].icon}.png`,
               desc: response1.weather[0].description
