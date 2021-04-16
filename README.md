@@ -4,9 +4,9 @@ UCSD-SD-FSF-PT-03-2021-U-C-MW
 
 ## Github repository and published webpage links below
 
-[GitHub link]()
+[GitHub link](https://github.com/djony88/06_Weather_Dashboard)
 
-[Published Webpage]()
+[Published Webpage](https://djony88.github.io/06_Weather_Dashboard/)
 
 Requirements:
 
